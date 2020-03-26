@@ -1,0 +1,5 @@
+User-agent: Googlebot
+Dissalow:
+
+
+sitemap: https://tcode369.github.io/sitemap.xml
